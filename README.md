@@ -60,7 +60,7 @@ I'm a multi-skilled creative technologist who:
 - 👑 **Apex Accessories** – Brand identity + webstore  
 - ✝️ **Church Website** – Full suite church platform
 
-🔎 Browse all at [Repositories »](https://github.com/your-username?tab=repositories)
+🔎 Browse all at [Repositories »]([(https://github.com/bigtennet?tab=repositories)])
 
 ---
 
@@ -86,7 +86,7 @@ We design. We secure. We promote. We dominate.
 - 🐦 **Twitter/X**: [@YourHandle](https://x.com/yourhandle)  
 - 📷 **Instagram**: [@YourHandle](https://instagram.com/yourhandle)  
 - 📢 **Telegram Group**: [DRAXTENNET](https://t.me/yourgroup)  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [tennetteam0@gmail.com](mailto:tennetteam0@gmail.com)
 
 ---
 
