@@ -1,8 +1,8 @@
-# 👑 TENNET | Cybersecurity Wizard | Web3 Dev | Social Media Boss | Team Leader
+# 👑BIG TENNET | Cybersecurity Wizard | Web3 Dev | Social Media Boss | Team Leader
 
 > “Break systems. Build brands. Secure everything.” – TENNET
 
-Welcome to the official GitHub of **TENNET** — a creative technologist, cybersecurity specialist, Web3 developer, and full-stack digital force. I also run **TENNET TEAM** — a badass squad of hackers, devs, crypto lords, and content beasts.
+Welcome to the official GitHub of **BIG TENNET** — a creative technologist, cybersecurity specialist, Web3 developer, and full-stack digital force. I also run **TENNET TEAM** — a badass squad of hackers, devs, crypto lords, and content beasts.
 
 ---
 
